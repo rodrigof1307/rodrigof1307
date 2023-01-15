@@ -9,6 +9,12 @@ My name is Rodrigo and I am currently a Frontend and Mobile developer with a goa
 Entrepreneurship has always fascinated me, and I am currently gaining valuable experience as a co-founder of outGoing, a startup that is digitizing event ticketing and consumption. I am responsible for the development of the app and website frontend, as well as managing a team of four.
 
 ---
+### 🤙 Contact me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
+
+---
 
 ### 🧰 Languages and Tools
 
@@ -19,3 +25,6 @@ Entrepreneurship has always fascinated me, and I am currently gaining valuable e
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+
+[linkedin]: https://www.linkedin.com/in/rodrigof1307/
+[github]: https://github.com/rodrigof1307
