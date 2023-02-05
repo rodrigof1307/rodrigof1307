@@ -37,4 +37,4 @@ Entrepreneurship has always fascinated me, and I am currently gaining valuable e
 
 ---
 
-![rodrigof1307's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigof1307&layout=compact)
+![rodrigof1307's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigof1307&layout=compact&langs_count=10)
