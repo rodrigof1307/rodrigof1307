@@ -10,10 +10,8 @@ Entrepreneurship has always fascinated me, and I am currently gaining valuable e
 
 ### 🤙 Contact me
 
-[<img align="left" alt="LinkedIn" width="40px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][github]
-<br />
-<br />
+LinkedIn: https://www.linkedin.com/in/rodrigof1307/
+Personal Website: https://www.rodrigof1307.com
 
 ---
 
