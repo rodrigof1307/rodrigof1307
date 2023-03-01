@@ -11,6 +11,7 @@ Entrepreneurship has always fascinated me, and I am currently gaining valuable e
 ### 🤙 Contact me
 
 LinkedIn: https://www.linkedin.com/in/rodrigof1307/
+<br/>
 Personal Website: https://www.rodrigof1307.com
 
 ---
