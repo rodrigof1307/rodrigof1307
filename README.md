@@ -2,9 +2,11 @@
 
 Hi!
 
-My name is Rodrigo Fernandes and I’m a Frontend and Mobile Software Engineer based in Lisbon, Portugal. I’m currently broadening my skills to become a Full Stack Developer! In addition, I am in the final year of my Masters in Aerospace Engineering at Instituto Superior Técnico in Lisbon, Portugal. 
+My name is Rodrigo Fernandes and I’m a Frontend and Mobile Software Engineer based in Lisbon, Portugal. Aditionally, I've just finished my Masters in Aerospace Engineering at Instituto Superior Técnico in Lisbon, Portugal. 
 
-I co-founded outGoing, a startup that digitized event ticketing and consumption, where I was single-handedly responsible for the development of the app and website frontend, as well as managing a team of four.
+I've previously co-founded outGoing, a startup that digitized event ticketing and consumption, where I was single-handedly responsible for the development of the app and website frontend, as well as managing a team of four.
+
+I'm quite keen on web3 and I've developed both the NFT Renter, a platform which allows users to rent and lent NFTs with or without collateral, and Bug Pointer, a sybil resistant bug bounty platform. Bug Pointer was built the ETHGlobal Lisbon Hackathon where it won Chainlink’s Best Hack prize and Worldcoin’s Honorable Mention prize.
 
 ---
 
@@ -29,7 +31,6 @@ Personal Website: https://www.rodrigof1307.com
 <img align="left" alt="HTML" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 <img align="left" alt="Tailwind CSS" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="Bootstrap" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
 <br />
 <br />
 
