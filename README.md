@@ -6,8 +6,6 @@ My name is Rodrigo Fernandes and I’m a Frontend and Mobile Software Engineer b
 
 I've previously co-founded outGoing, a startup that digitized event ticketing and consumption, where I was single-handedly responsible for the development of the app and website frontend, as well as managing a team of four.
 
-I'm quite keen on web3 and I've developed both the NFT Renter, a platform which allows users to rent and lent NFTs with or without collateral, and Bug Pointer, a sybil resistant bug bounty platform. Bug Pointer was built the ETHGlobal Lisbon Hackathon where it won Chainlink’s Best Hack prize and Worldcoin’s Honorable Mention prize.
-
 ---
 
 ### 🤙 Contact me
