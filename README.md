@@ -2,7 +2,7 @@
 
 Hi!
 
-My name is Rodrigo Fernandes and I’m a Frontend and Mobile Software Engineer based in Lisbon, Portugal. I'm currently working as a Software Engineer on Evernote's Reliability and Performance team at Bending Spoons.
+My name is Rodrigo Fernandes and I’m a Software Engineer based in Lisbon, Portugal. I'm currently working on Evernote's Quality of Experience team at Bending Spoons.
 
 I've previously co-founded outGoing, a startup that digitalized event ticketing and food and beverage sales, where I was responsible for the development of the app and website frontend.
 
